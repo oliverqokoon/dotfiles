@@ -3,7 +3,6 @@ alias ll="ls -lah --color"
 alias l="ls -lh --color"
 alias brew-up="brew update && brew upgrade"
 alias ggrep="git grep"
-alias qkeks="eksctl --cluster=qokoon-cluster --region=eu-west-1"
 alias vim="nvim"
 
 # BEGIN_KITTY_SHELL_INTEGRATION
